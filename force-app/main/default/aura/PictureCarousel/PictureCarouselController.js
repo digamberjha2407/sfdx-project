@@ -16,5 +16,5 @@
 	        component.set("v.slideIndex", slideIndex);
         }
     }
-
+	//one more comment
 })
