@@ -7,6 +7,7 @@
 	        component.set("v.slideIndex", slideIndex);
         }
 	},
+	//All under comment
 
     prev: function(component) {
        	var slideIndex = component.get("v.slideIndex");
