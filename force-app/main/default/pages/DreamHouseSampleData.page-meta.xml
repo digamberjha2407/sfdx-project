@@ -3,6 +3,7 @@
     <apiVersion>47.0</apiVersion>
     <!--Chan Comment-->
     <availableInTouch>false</availableInTouch>
+        <!--Patch Comment-->
     <confirmationTokenRequired>false</confirmationTokenRequired>
     <label>DreamHouseSampleData</label>
 </ApexPage>
