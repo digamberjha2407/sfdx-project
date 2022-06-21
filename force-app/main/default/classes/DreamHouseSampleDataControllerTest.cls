@@ -7,21 +7,7 @@ private class DreamHouseSampleDataControllerTest {
         //again added a comment//added comment here
         //again added a comment//added comment here
         //again added a comment//added comment here
-        //again added a comment//added comment here
-        //again added a comment//added comment here
-        //again added a comment//added comment here
-        //again added a comment//added comment here
-        //again added a comment//added comment here
-        //again added a comment//added comment here
-        //again added a comment//added comment here
-        //again added a comment//added comment here
-        //again added a comment
-        //added comment here
-        //again added a comment//added comment here
-        //again added a comment//added comment here
-        //again added a comment//added comment here
-        //again added a comment//added comment here
-        //again added a comment//added comment here
+      
         //again added a comment//added comment here
         //again added a comment//added comment here
         //again added a comment//added comment here
