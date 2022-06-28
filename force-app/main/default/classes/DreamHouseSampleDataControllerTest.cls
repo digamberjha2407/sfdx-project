@@ -3,44 +3,6 @@ private class DreamHouseSampleDataControllerTest {
 
     @isTest
     static void test_deleteAll() {
-        
-        //again added a comment//added comment here
-        //again added a comment//added comment here
-        //again added a comment//added comment here
-      
-        //again added a comment//added comment here
-        //again added a comment//added comment here
-        //again added a comment//added comment here
-        //again added a comment//added comment here
-        //again added a comment//added comment here
-        //again added a comment//added comment here
-        //again added a comment
-        //again added a comment//added comment here
-        //again added a comment//added comment here
-        //again added a comment//added comment here
-        //again added a comment//added comment here
-        //again added a comment//added comment here
-        //again added a comment//added comment here
-        //again added a comment//added comment here
-        //again added a comment//added comment here
-        //again added a comment//added comment here
-        //again added a comment//added comment here
-        //again added a comment//added comment here
-        //again added a comment
-        //added comment here
-        //again added a comment//added comment here
-        //again added a comment//added comment here
-        //again added a comment//added comment here
-        //again added a comment//added comment here
-        //again added a comment//added comment here
-        //again added a comment//added comment here
-        //again added a comment//added comment here
-        //again added a comment//added comment here
-        //again added a comment//added comment here
-        //again added a comment//added comment here
-        //again added a comment//added comment here
-        //again added a comment
-
         Property__c property = new Property__c();
         Broker__c broker = new Broker__c();
 
