@@ -1,0 +1,1 @@
+added a file to check usual behaviour in autorabit
