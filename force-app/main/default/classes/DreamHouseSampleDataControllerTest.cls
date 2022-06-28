@@ -3,44 +3,6 @@ private class DreamHouseSampleDataControllerTest {
 
     @isTest
     static void test_deleteAll() {
-        
-        //again added a comment//added comment here
-        //again added a comment//added comment here
-        //again added a comment//added comment here
-      
-        //again added a comment//added comment here
-        //again added a comment//added comment here
-        //again added a comment//added comment here
-        //again added a comment//added comment here
-        //again added a comment//added comment here
-        //again added a comment//added comment here
-        //again added a comment
-        //again added a comment//added comment here
-        //again added a comment//added comment here
-        //again added a comment//added comment here
-        //again added a comment//added comment here
-        //again added a comment//added comment here
-        //again added a comment//added comment here
-        //again added a comment//added comment here
-        //again added a comment//added comment here
-        //again added a comment//added comment here
-        //again added a comment//added comment here
-        //again added a comment//added comment here
-        //again added a comment
-        //added comment here
-        //again added a comment//added comment here
-        //again added a comment//added comment here
-        //again added a comment//added comment here
-        //again added a comment//added comment here
-        //again added a comment//added comment here
-        //again added a comment//added comment here
-        //again added a comment//added comment here
-        //again added a comment//added comment here
-        //again added a comment//added comment here
-        //again added a comment//added comment here
-        //again added a comment//added comment here
-        //again added a comment
-
         Property__c property = new Property__c();
         Broker__c broker = new Broker__c();
 
@@ -58,7 +20,6 @@ private class DreamHouseSampleDataControllerTest {
 
         System.assertEquals( 0, [ SELECT count() FROM Property__c ] );
         System.assertEquals( 0, [ SELECT count() FROM Broker__c ] );
-        //added a comment
 
     }
 
