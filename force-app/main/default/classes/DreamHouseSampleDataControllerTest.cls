@@ -22,6 +22,7 @@ private class DreamHouseSampleDataControllerTest {
         System.assertEquals( 0, [ SELECT count() FROM Broker__c ] );
         //added a comment
         //2nd comment at 17:10 28th june
+        //Added a new comment for new branch to merge and check in autorabit 28th june 17:19
 
     }
 
