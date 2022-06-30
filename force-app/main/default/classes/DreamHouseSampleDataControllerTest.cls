@@ -8,6 +8,7 @@ private class DreamHouseSampleDataControllerTest {
 
         insert property;
         insert broker;
+        //added comment at 11:57 at 30th june
 
         System.assertEquals( 1, [ SELECT count() FROM Property__c ] );
         System.assertEquals( 1, [ SELECT count() FROM Broker__c ] );
