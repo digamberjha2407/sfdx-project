@@ -20,7 +20,20 @@
         <name>AssignmentRules</name>
     </types>
     <types>
+        <members>Lead.test lead</members>
+        <name>AutoResponseRule</name>
+    </types>
+    <types>
+        <members>Case</members>
+        <members>Lead</members>
+        <name>AutoResponseRules</name>
+    </types>
+    <types>
         <members>DreamHouseLogo</members>
         <name>ContentAsset</name>
+    </types>
+    <types>
+        <members>Case.Standard</members>
+        <name>EscalationRule</name>
     </types>
 </Package>
