@@ -23,14 +23,4 @@
         <members>DreamHouseLogo</members>
         <name>ContentAsset</name>
     </types>
-    <types>
-        <members>cms_document</members>
-        <members>cms_image</members>
-        <members>news</members>
-        <name>ManagedContentType</name>
-    </types>
-    <types>
-        <members>Case.ChangePriorityToHigh</members>
-        <name>WorkflowFieldUpdate</name>
-    </types>
 </Package>
