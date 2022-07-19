@@ -13,6 +13,7 @@ private class DreamHouseSampleDataControllerTest {
 
         System.assertEquals( 1, [ SELECT count() FROM Property__c ] );
         System.assertEquals( 1, [ SELECT count() FROM Broker__c ] );
+        //added a comment in 2nd branch at 12:08 30th june
 
         Test.startTest();
 
@@ -24,6 +25,7 @@ private class DreamHouseSampleDataControllerTest {
         System.assertEquals( 0, [ SELECT count() FROM Broker__c ] );
         //new comment to main at 17:35 28th june
         //new comment to main at 17:35 28th june
+        //added a comment in main at 13:02 30th june
 
     }
 
