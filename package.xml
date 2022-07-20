@@ -23,8 +23,4 @@
         <members>DreamHouseLogo</members>
         <name>ContentAsset</name>
     </types>
-    <types>
-        <members>dreamhouse</members>
-        <name>PermissionSet</name>
-    </types>
 </Package>
